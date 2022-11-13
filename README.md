@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, i'm Edjalma Almeida</h1>
-<h3 align="center">Apaixonado por desenvolvimento</h3>
+<h1 align="center">Olá 👋, Meu nome é Edjalma Almeida</h1>
+<h3 align="center">Sou um paixonado por desenvolvimento de Artur Nogueira, SP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyda91&label=Profile%20views&color=0e75b6&style=flat" alt="dyda91" /> </p>
 
