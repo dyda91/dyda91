@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Python (Flask), React.js, Node.js**
 
-- 👨‍💻 Some of my projects are available in [my portfolio](https://portfolio-3909.onrender.com/)
+- 👨‍💻 Some of my projects are available in my [portfolio](https://portfolio-3909.onrender.com/)
 
 - 💬 Ask me about **Python (Flask), React.js, Node.js**
 
 - 📫 How to reach me **edjalmasalmeida@outlook.com**
 
-- 📄 Know about my experiences [on my Linkedin](https://www.linkedin.com/in/edjalma-silva-de-almeida/)
+- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/edjalma-silva-de-almeida/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
