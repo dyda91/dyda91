@@ -25,7 +25,7 @@ Integro o time de desenvolvimento, contribuindo com melhorias em aplicações e 
 
 Tenho experiência com **Linux, Python, Docker, Git e ROS/ROS2**, além de atividades relacionadas à comunicação entre sistemas, sensores, câmeras, navegação robótica e análise de logs.
 
-Também atuo com **suporte técnico N2**, remoto e presencial, incluindo atendimento diretamente nas instalações dos clientes. Possuo autonomia para conduzir diagnósticos, executar ajustes técnicos e alinhar demandas, cronogramas e expectativas para garantir a continuidade das operações.
+Também atuo com **suporte técnico**, remoto e presencial, incluindo atendimento diretamente nas instalações dos clientes. Possuo autonomia para conduzir diagnósticos, executar ajustes técnicos e alinhar demandas, cronogramas e expectativas para garantir a continuidade das operações.
 
 Minha formação em desenvolvimento Backend e Full Stack complementa essa experiência, ampliando minha atuação em programação, APIs e integração de sistemas.
 
