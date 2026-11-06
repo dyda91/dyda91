@@ -1,35 +1,179 @@
 
-<h1 align="center">Olá 👋, Meu nome é Edjalma Almeida</h1>
-<h3 align="center">Sou um paixonado por desenvolvimento de Artur Nogueira, SP</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyda91&label=Profile%20views&color=0e75b6&style=flat" alt="dyda91" /> </p>
+# Olá, eu sou Edjalma Almeida! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dyda91" alt="dyda91" /></a> </p>
+### Desenvolvedor de Software | Python | Node.js | Automação e Integração de Sistemas
 
-<p align="left"> <a href="https://twitter.com/edjalma_almeida" target="blank"><img src="https://img.shields.io/twitter/follow/edjalma_almeida?logo=twitter&style=for-the-badge" alt="edjalma_almeida" /></a> </p>
+📍 Artur Nogueira, SP — Brasil
 
-- 🌱 I’m currently learning **Python (Flask), React.js, Node.js**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edjalma-silva-de-almeida/)
+[![GitHub](https://img.shields.io/badge/GitHub-dyda91-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyda91)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edjalmasalmeida@outlook.com)
 
-- 👨‍💻 Some of my projects are available in my [portfolio](https://portfolio-3909.onrender.com/)
+</div>
 
-- 💬 Ask me about **Python (Flask), React.js, Node.js**
+---
 
-- 📫 How to reach me **edjalmasalmeida@outlook.com**
+## 👨‍💻 Sobre mim
 
-- 📄 Know about my experiences on my [Linkedin](https://www.linkedin.com/in/edjalma-silva-de-almeida/)
+Sou **Desenvolvedor de Tecnologia**, com atuação profissional desde 2022 na **Automni**, empresa especializada em robótica móvel e automação industrial.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/edjalma_almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edjalma_almeida" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edjalma-silva-de-almeida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edjalma-silva-de-almeida" height="30" width="40" /></a>
-<a href="https://instagram.com/dyda1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dyda1991" height="30" width="40" /></a>
-</p>
+Minha trajetória combina conhecimentos em desenvolvimento de software com experiência prática em **integração, configuração, diagnóstico e manutenção de sistemas tecnológicos** utilizados em operações industriais e centros logísticos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+Integro o time de desenvolvimento, contribuindo com melhorias em aplicações e interfaces web, implementação de soluções técnicas, investigação de falhas e evolução de sistemas utilizados por robôs móveis autônomos (AMRs).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyda91&show_icons=true&locale=en&layout=compact" alt="dyda91" /></p>
+Tenho experiência com **Linux, Python, Docker, Git e ROS/ROS2**, além de atividades relacionadas à comunicação entre sistemas, sensores, câmeras, navegação robótica e análise de logs.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyda91&show_icons=true&locale=en" alt="dyda91" /></p>
+Também atuo com **suporte técnico N2**, remoto e presencial, incluindo atendimento diretamente nas instalações dos clientes. Possuo autonomia para conduzir diagnósticos, executar ajustes técnicos e alinhar demandas, cronogramas e expectativas para garantir a continuidade das operações.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyda91&" alt="dyda91" /></p>
+Minha formação em desenvolvimento Backend e Full Stack complementa essa experiência, ampliando minha atuação em programação, APIs e integração de sistemas.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Outros conhecimentos:** APIs REST, integração de serviços e desenvolvimento Backend.
+
+### Desenvolvimento Web
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Bancos de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Infraestrutura, Cloud e Versionamento
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Robótica e Automação
+
+![ROS](https://img.shields.io/badge/ROS%20%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![AMR](https://img.shields.io/badge/Rob%C3%B4s%20Aut%C3%B4nomos-AMR-087E8B?style=flat-square)
+![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Industrial-34495E?style=flat-square)
+![Integração](https://img.shields.io/badge/Integra%C3%A7%C3%A3o-de%20Sistemas-2E86C1?style=flat-square)
+
+- Configuração e manutenção de robôs móveis autônomos
+- Calibração de sensores e câmeras
+- Diagnóstico de sistemas de navegação e controle
+- Integração e comunicação entre sistemas
+- Análise de logs e resolução de incidentes
+- Suporte técnico N2 e atendimento em campo
+
+### Inteligência Artificial e Novas Tecnologias
+
+- IA aplicada ao desenvolvimento de software
+- OpenCode e desenvolvimento assistido por IA
+- Spec-Driven Development (SDD)
+- Engenharia de prompts e utilização de LLMs
+- Noções de web scraping e automação RPA
+
+---
+
+## 🎓 Formação acadêmica e certificações
+
+**Pós-graduação em Desenvolvimento de Sistemas com Java e PHP**  
+FACUMINAS | Maio de 2023 – Novembro de 2024
+
+**Bootcamp de Desenvolvimento Web Full Stack**  
+Tera | Formação de 9 meses
+
+**Bootcamp Backend JavaScript/TypeScript**  
+Ada Tech em parceria com o iFood | Formação de 6 meses
+
+**AWS re/Start Graduate**  
+Escola da Nuvem
+
+**Tecnólogo em Logística**  
+Universidade Paulista (UNIP) | Concluído em 2020
+
+---
+
+## 💼 Experiência profissional
+
+### Automni | Desenvolvedor de Tecnologia
+**2022 – Atualmente**
+
+Atuação em sistemas de robótica móvel e automação industrial, com participação em atividades de desenvolvimento, implantação, configuração, manutenção, integração e suporte.
+
+**Principais responsabilidades:**
+
+- Participação em melhorias de aplicações e interfaces web.
+- Configuração, parametrização e manutenção de sistemas ROS/ROS2.
+- Diagnóstico e correção de falhas em sistemas robóticos.
+- Utilização de Linux, Docker e Git em ambientes de desenvolvimento e produção.
+- Calibração e ajustes de robôs autônomos para operações industriais e logísticas.
+- Suporte técnico N2, remoto e presencial.
+- Atendimento direto a clientes em fábricas e centros de distribuição.
+- Alinhamento de demandas, cronogramas e necessidades operacionais.
+- Análise de desempenho, elaboração de relatórios técnicos e identificação de melhorias.
+- Treinamento e orientação de operadores.
+
+---
+
+## 🚀 Projetos e Portfólio
+
+Aqui compartilho projetos relacionados a desenvolvimento Backend, Full Stack, APIs, automação e integração de sistemas.
+
+### 🚗 API de Aluguel de Veículos
+
+Projeto Backend desenvolvido com TypeScript, Node.js, Express, Sequelize e MySQL, incluindo funcionalidades relacionadas a autenticação e gerenciamento de dados.
+
+🔗 [Ver repositório](https://github.com/dyda91/aluguel-veiculos)
+
+### 🎓 ONE CLICK — Projeto Full Stack
+
+Projeto desenvolvido durante o bootcamp da Tera, voltado a uma plataforma educacional, utilizando tecnologias de desenvolvimento web e Backend.
+
+🔗 [Ver repositório](https://github.com/dyda91/dyda91-projeto-bootcamp-fullstack-tera)
+
+### 🌐 Portfólio Web
+
+Projeto de portfólio responsivo com tecnologias web e Python/Flask.
+
+🔗 [Ver repositório](https://github.com/dyda91/responsive-portfolio)
+
+---
+
+## 🎯 Objetivos profissionais
+
+Busco oportunidades em **Desenvolvimento Backend, Desenvolvimento de Software, Integração de Sistemas e Automação**, nas quais possa aplicar minha formação técnica e minha experiência com sistemas reais em produção.
+
+Tenho interesse em construir soluções confiáveis, automatizar processos, integrar tecnologias e contribuir para a evolução de produtos e sistemas.
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 💼 **LinkedIn:** [edjalma-silva-de-almeida](https://www.linkedin.com/in/edjalma-silva-de-almeida/)
+- 💻 **GitHub:** [github.com/dyda91](https://github.com/dyda91)
+- 📧 **E-mail:** [edjalmasalmeida@outlook.com](mailto:edjalmasalmeida@outlook.com)
+
+---
+
+<div align="center">
+
+**Tecnologia, aprendizado contínuo e soluções para problemas reais.**
+
+</div>
+
