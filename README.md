@@ -69,7 +69,6 @@ Minha formação em desenvolvimento Backend e Full Stack complementa essa experi
 ### Robótica e Automação
 
 ![ROS](https://img.shields.io/badge/ROS%20%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![AMR](https://img.shields.io/badge/Rob%C3%B4s%20Aut%C3%B4nomos-AMR-087E8B?style=flat-square)
 ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Industrial-34495E?style=flat-square)
 ![Integração](https://img.shields.io/badge/Integra%C3%A7%C3%A3o-de%20Sistemas-2E86C1?style=flat-square)
 
